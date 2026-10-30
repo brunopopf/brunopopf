@@ -8,9 +8,9 @@
 
 **Software Engineer · Barcelona, Spain**
 
-*I work primarily with backend systems, APIs, databases and integrations.*
+I work primarily with backend systems, APIs, databases and integrations.
 
-*Currently exploring software architecture, automation and AI-assisted development.*
+Currently exploring software architecture, automation and AI-assisted development.
 
 
 ---
