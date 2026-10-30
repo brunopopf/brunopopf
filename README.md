@@ -8,9 +8,9 @@
 
 **Software Engineer · Barcelona, Spain**
 
-I work primarily with backend systems, APIs, databases and integrations.
+*I work primarily with backend systems, APIs, databases and integrations.*
 
-Currently exploring software architecture, automation and AI-assisted development.
+*Currently exploring software architecture, automation and AI-assisted development.*
 
 
 ---
@@ -28,8 +28,9 @@ Currently exploring software architecture, automation and AI-assisted developmen
 
 ---
 
+### Contact
 
-<p align="center">
+<p align="left">
   <a href="https://brunopop.dev">
     <img src="https://img.shields.io/badge/🌐%20brunopop.dev-181a18?style=for-the-badge&label=" alt="Website" />
   </a>
