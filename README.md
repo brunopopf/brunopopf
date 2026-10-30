@@ -1,26 +1,12 @@
 # Bruno Poppolo
 
-Product & Software Engineer based in Barcelona, Spain. 
+**Software Engineer · Barcelona, Spain**
 
-I focus on building reliable technical products, handling payment architecture, complex API integrations, and developer tooling for operational systems.
+I work primarily with backend systems, APIs, databases and integrations.
 
-[🌐 brunopop.dev](https://brunopop.dev) &nbsp;|&nbsp; [📄 Read CV](https://brunopop.dev) &nbsp;|&nbsp; [📫 Get in touch](mailto:hi@brunopop.dev)
+Currently exploring software architecture, automation and AI-assisted development.
 
----
-
-### Technical Focus
-
-- **Backend & Integrations:** Node.js, TypeScript, REST & GraphQL APIs, Webhook architectures.
-- **Financial & Operations Systems:** Payment gateways (Stripe), IBAN migration logic, double-entry ledgers, data reconciliation.
-- **Tooling & Automation:** Internal CLIs, database patching scripts, developer workflow automation.
-
----
-
-### What I Care About
-
-- **Reliability:** Systems that fail gracefully and handle edge cases safely in production.
-- **DX & Operations:** Building internal tools that eliminate manual friction for non-engineering teams.
-- **Product Context:** Engineering decisions driven by business operations and user needs rather than hype.
+[🌐 brunopop.dev](https://brunopop.dev) &nbsp; · [📫 Get in touch](mailto:hi@brunopop.dev)
 
 ---
 
